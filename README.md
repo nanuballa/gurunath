@@ -1,5 +1,0 @@
-# gurunath
-
-===== hello 
-===== good day
-
